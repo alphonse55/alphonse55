@@ -11,7 +11,11 @@
 
 🥈 Git/GitHub
 
+🥈 UNIX
+
 🥈 Java
+
+🥉 JavaScript
 
 <br/>
 <br/>
