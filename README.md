@@ -22,7 +22,7 @@
 
 📋 **Projects**
 
-🥇 Gravity Engine - Pygame and p5js
+🥇 Gravity Engine - Pygame and p5.js
 
 🥇 Ants simulation - Pygame
 
@@ -40,7 +40,7 @@
 
 📚 **Learning**
 
-🥇 p5js
+🥇 p5.js
 
 🥈 django
 
