@@ -1,9 +1,6 @@
 ### Hello World 👋 
 
 <br/>
-
-I'm 15 and I like programming stuff. Here's what I'm doing :
-
 <br/>
 
 💻 **Skills**
