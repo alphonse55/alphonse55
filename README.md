@@ -1,8 +1,9 @@
 ### Hello World 👋 
 
 <br/>
+<br/>
 
-💻 Skills :
+💻 **Skills**
 
 🥇 Python 
 
@@ -13,9 +14,9 @@
 🥈 Java
 
 <br/>
+<br/>
 
-📋 Projects :
-
+📋 **Projects**
 
 🥇 Gravity Engine - Pygame and p5js
 
@@ -25,14 +26,15 @@
 
 🥉 CLUEDO AI - Pygame
 
-🥉< Quiz website - django
+🥉 Quiz website - django
 
 🥉 rewriting chemical equation balancer - python
 
 
 <br/>
+<br/>
 
-📚 Learning :
+📚 **Learning**
 
 🥇 p5js
 
