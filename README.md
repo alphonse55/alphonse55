@@ -9,22 +9,28 @@
 
 🥇 Pygame
 
+🥈 Java
+
 🥈 Git/GitHub
 
 🥈 UNIX
 
-🥈 Java
+🥈 JavaScript
 
-🥉 JavaScript
+🥉 HTML/CSS
+
+🥉 C/C++
 
 <br/>
 <br/>
 
 📋 **Projects**
 
-🥇 Gravity Engine - Pygame and p5.js
+🥇 Pong - JavaFX
 
-🥇 Ants simulation - Pygame
+🥇 Gravity Engine - Pygame, p5.js, JavaFX
+
+🥈 Ants simulation - Pygame
 
 🥈 Calculator - Pygame
 
@@ -32,7 +38,7 @@
 
 🥉 Quiz website - django
 
-🥉 rewriting chemical equation balancer - python
+🥉 rewriting chemical equation balancer - Python
 
 
 <br/>
@@ -40,10 +46,12 @@
 
 📚 **Learning**
 
-🥇 p5.js
+🥇 JavaFX
+
+🥈 p5.js
 
 🥈 django
 
-🥉 Machine Learning/AI
+🥉 Machine Learning
 
 🥉 flutter/dart
