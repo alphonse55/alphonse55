@@ -5,33 +5,17 @@
 
 💻 **Skills**
 
-🥇 Python 
+🥇 Python, Pygame
 
-🥇 Pygame
+🥈 Java, Git/GitHub, UNIX
 
-🥈 Java
-
-🥈 Git/GitHub
-
-🥈 UNIX
-
-🥈 JavaScript
-
-🥉 HTML/CSS
-
-🥉 C/C++
+🥉 HTML/CSS, JavaScript, C/C++
 
 <br/>
 <br/>
 
 📚 **Learning**
 
-🥇 JavaFX
+- Flutter
 
-🥇 p5.js
-
-🥈 django
-
-🥉 Machine Learning
-
-🥉 flutter/dart
+- django
