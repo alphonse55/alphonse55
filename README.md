@@ -17,5 +17,4 @@
 📚 **Learning**
 
 - Flutter
-
 - django
