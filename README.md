@@ -1,6 +1,5 @@
-### Hello World 👋 
+### Hello World 👋 , I'm Alphonse.
 
-<br/>
 <br/>
 
 💻 **Skills**
@@ -11,7 +10,6 @@
 
 🥉 HTML/CSS, JavaScript, C/C++
 
-<br/>
 <br/>
 
 📚 **Learning**
