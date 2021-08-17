@@ -14,5 +14,7 @@
 
 📚 **Learning**
 
+- Machine Learning / Reinforcement Learning
+- React
 - Flutter
 - django
