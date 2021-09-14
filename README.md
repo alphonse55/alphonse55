@@ -4,9 +4,9 @@
 
 💻 **Skills**
 
-🥇 Python, Pygame
+🥇 Python, Pygame, Java
 
-🥈 Java, Git/GitHub, UNIX
+🥈 Git/GitHub, UNIX
 
 🥉 HTML/CSS, JavaScript, C/C++
 
@@ -14,7 +14,8 @@
 
 📚 **Learning**
 
+- Unity
 - Machine Learning / Reinforcement Learning
-- React
 - Flutter
 - django
+- React
