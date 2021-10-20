@@ -14,8 +14,6 @@
 
 📚 **Learning**
 
-- Unity
 - Machine Learning / Reinforcement Learning
 - Flutter
-- django
 - React
